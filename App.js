@@ -24,6 +24,17 @@ student names in future.
    var num = [10,6,5];
    
   Q:5. Declare and initialize a boolean array.
+  
+   -------Ans-------
+              
+     var BooleanArray = [true,false,true];
+   
+   Q:6. Declare and initialize a mixed array.
+  
+              -------Ans-------
+
+     var mixedArray = [10,"Hassan",true,false];
+
    
               -------Ans-------
  Q:7. Declare and Initialize an array and store available
@@ -158,10 +169,4 @@ document.write("Out:" + "<br>" + newArray[4] + "<br>");*/
 
 
               
-   var BooleanArray = [true,false,true];
-   
-   Q:6. Declare and initialize a mixed array.
   
-   -------Ans-------
-
-var mixedArray = [10,"Hassan",true,false];*/
